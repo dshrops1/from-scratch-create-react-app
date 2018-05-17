@@ -1,0 +1,13 @@
+# Node
+node_modules/
+
+# Webstorm
+.idea/
+
+# Project
+dist/
+
+
+# Extra
+.DS_Store
+
