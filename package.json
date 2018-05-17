@@ -1,0 +1,23 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "my create-react-app boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dshrops1/from-scratch-create-react-app.git"
+  },
+  "keywords": [
+    "[\"Node\"",
+    "\"React\"]"
+  ],
+  "author": "Dustin Shropshire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dshrops1/from-scratch-create-react-app/issues"
+  },
+  "homepage": "https://github.com/dshrops1/from-scratch-create-react-app#readme"
+}
