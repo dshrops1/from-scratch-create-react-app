@@ -25,7 +25,9 @@
   },
   "homepage": "https://github.com/dshrops1/from-scratch-create-react-app#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
