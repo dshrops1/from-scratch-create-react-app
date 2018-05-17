@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/dshrops1/from-scratch-create-react-app/issues"
   },
-  "homepage": "https://github.com/dshrops1/from-scratch-create-react-app#readme"
+  "homepage": "https://github.com/dshrops1/from-scratch-create-react-app#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
